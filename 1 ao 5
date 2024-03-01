@@ -1,0 +1,18 @@
+1- O que é back end e para que serve?
+
+As linguagens de programação backend lidam com os bastidores das funcionalidades das aplicações web. É o código que conecta a internet com o banco de dados, gerencia as conexões dos usuários e alimenta a aplicação web. O backend trabalha em conjunto com o frontend para entregar o produto para o usuário final.
+
+
+
+2- por que a segurança é importante no back end?
+
+à aplicação, enquanto a autorização é fundamental para assegurar que os usuários só possam realizar as ações permitidas. Essas medidas são importantes para proteger a integridade e a segurança da aplicação e dos dados
+
+3- qual é a função do comando git commit-m e por que é importante adicionar uma mensagem discritiva
+
+Então, git commit é usado para criar um instantâneo das alterações preparadas em um cronograma de um histórico de projetos do Git
+
+4- em termos do github, o que são "issues" e para que sao comumente usadas?
+No GitHub, "issues" são áreas onde os usuários podem discutir, relatar ou sugerir melhorias, bugs ou novos recursos para um projeto de software específico. As issues são criadas dentro de repositórios de projetos e podem ser usadas para várias finalidades
+
+5- No Git, um "branch" é uma linha de desenvolvimento independente que permite que você trabalhe em diferentes partes de um projeto de forma isolada. Cada branch representa uma ramificação separada do código-fonte principal, conhecida como branch principal ou "master" (ou "main", dependendo das configurações de nomenclatura).
